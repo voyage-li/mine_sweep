@@ -332,6 +332,5 @@ QMessageBox message(QMessageBox::NoIcon, "title","content");message.exec();
 
 > 图片找不到了 懒
 
-借鉴了：
-fengqian-wei. qt-mine-sweeping[EB/OL].https://github.com/fengqian-wei/qt-mine-sweeping
+[扫雷图片素材来源](https://github.com/fengqian-wei/qt-mine-sweeping)
 
